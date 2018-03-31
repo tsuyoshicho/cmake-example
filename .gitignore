@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+# vim:fenc=utf-8 ff=unix ft=gitconfig
+
+/build/**/*
+!/build/.gitkeep

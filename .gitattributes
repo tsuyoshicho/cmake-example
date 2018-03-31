@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+# vim:fenc=utf-8 ff=unix
+
+# git system files
+.gitconfig     eol=lf
+.gitconfig.*   eol=lf
+.gitattributes eol=lf
+.gitmodules    eol=lf
+.gitignore     eol=lf
+
+# other config files
+.clang*        eol=lf
+*.cmake        eol=lf
+
